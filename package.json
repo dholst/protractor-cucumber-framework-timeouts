@@ -1,0 +1,13 @@
+{
+  "name": "protractor-cucumber-framework-timeouts",
+  "version": "1.0.0",
+  "scripts": {
+    "pretest": "webdriver-manager update",
+    "test": "protractor"
+  },
+  "devDependencies": {
+    "cucumber": "^2.2.0",
+    "protractor": "^5.1.2",
+    "protractor-cucumber-framework": "^3.1.0"
+  }
+}
